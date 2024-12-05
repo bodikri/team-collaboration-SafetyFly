@@ -7,7 +7,7 @@
    viewBox="0 0 420 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="Safety.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.35945918"
-     inkscape:cx="1246.3168"
+     inkscape:cx="1244.9258"
      inkscape:cy="560.56435"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -45,5 +45,12 @@
        cy="147.94795"
        rx="30.546467"
        ry="27.970261" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path9"
+       cx="266.08551"
+       cy="147.94794"
+       rx="33.490707"
+       ry="26.49814" />
   </g>
 </svg>
