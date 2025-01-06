@@ -1,0 +1,2474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Update 02.01.2024 Kovachev.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata500">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.6304372"
+     inkscape:cx="586.5945"
+     inkscape:cy="677.26384"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false">
+    <inkscape:grid
+       id="grid48"
+       units="mm"
+       originx="793.70079"
+       originy="561.25984"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="30.107527"
+       y="391.39785"
+       width="529.03226"
+       height="36.55914"
+       id="rect82" />
+    <rect
+       x="31.182796"
+       y="345.16129"
+       width="450.53763"
+       height="36.55914"
+       id="rect81" />
+    <rect
+       x="33.333333"
+       y="293.54839"
+       width="381.72043"
+       height="35.483871"
+       id="rect80" />
+    <rect
+       x="31.182796"
+       y="245.16129"
+       width="301.07527"
+       height="36.55914"
+       id="rect79" />
+    <rect
+       x="32.258065"
+       y="197.84946"
+       width="238.70968"
+       height="34.408602"
+       id="rect78" />
+    <rect
+       x="32.258065"
+       y="147.31183"
+       width="167.74194"
+       height="35.483871"
+       id="rect77" />
+    <rect
+       x="606.45161"
+       y="330.10753"
+       width="163.44086"
+       height="35.483871"
+       id="rect76" />
+    <rect
+       x="535.48387"
+       y="270.96774"
+       width="236.55914"
+       height="33.333333"
+       id="rect75" />
+    <rect
+       x="463.44086"
+       y="216.12903"
+       width="306.45161"
+       height="35.483871"
+       id="rect74" />
+    <rect
+       x="394.62366"
+       y="160.21505"
+       width="375.26882"
+       height="38.709677"
+       id="rect73" />
+    <rect
+       x="327.95699"
+       y="102.15054"
+       width="445.16129"
+       height="41.935484"
+       id="rect72" />
+    <rect
+       x="263.44086"
+       y="50.537634"
+       width="505.37634"
+       height="36.55914"
+       id="rect71" />
+    <rect
+       x="89.043076"
+       y="537.75034"
+       width="604.09616"
+       height="50.632337"
+       id="rect70" />
+    <rect
+       x="412.04247"
+       y="628.53936"
+       width="224.35363"
+       height="39.28371"
+       id="rect69" />
+    <rect
+       x="299.42917"
+       y="627.66639"
+       width="86.424162"
+       height="42.775595"
+       id="rect68" />
+    <rect
+       x="183.32398"
+       y="626.79342"
+       width="85.551191"
+       height="39.28371"
+       id="rect67" />
+    <rect
+       x="63.726907"
+       y="626.79342"
+       width="88.170105"
+       height="38.410739"
+       id="rect66" />
+    <rect
+       x="410.29653"
+       y="460.05589"
+       width="226.09958"
+       height="38.410739"
+       id="rect65" />
+    <rect
+       x="410.29653"
+       y="457.43698"
+       width="225.2266"
+       height="40.156681"
+       id="rect64" />
+    <rect
+       x="295.93728"
+       y="458.30995"
+       width="86.424162"
+       height="36.664796"
+       id="rect63" />
+    <rect
+       x="184.19695"
+       y="455.69104"
+       width="83.805248"
+       height="42.775595"
+       id="rect62" />
+    <rect
+       x="64.599879"
+       y="460.05589"
+       width="82.059305"
+       height="34.918853"
+       id="rect61" />
+    <rect
+       x="349.38272"
+       y="977.77778"
+       width="422.22222"
+       height="35.802469"
+       id="rect60" />
+    <rect
+       x="419.75309"
+       y="925.92593"
+       width="348.14815"
+       height="37.037037"
+       id="rect59" />
+    <rect
+       x="491.35802"
+       y="870.37037"
+       width="280.24691"
+       height="35.802469"
+       id="rect58" />
+    <rect
+       x="472.83951"
+       y="866.66667"
+       width="296.2963"
+       height="38.271605"
+       id="rect57" />
+    <rect
+       x="551.85185"
+       y="814.81481"
+       width="217.28395"
+       height="35.802469"
+       id="rect56" />
+    <rect
+       x="559.25926"
+       y="812.34568"
+       width="208.64198"
+       height="37.037037"
+       id="rect55" />
+    <rect
+       x="635.80247"
+       y="758.02469"
+       width="138.2716"
+       height="35.802469"
+       id="rect54" />
+    <rect
+       x="34.567901"
+       y="895.06173"
+       width="187.65432"
+       height="28.395062"
+       id="rect52" />
+    <rect
+       x="37.037037"
+       y="893.82716"
+       width="180.24691"
+       height="32.098765"
+       id="rect51" />
+    <rect
+       x="33.333333"
+       y="846.91358"
+       width="251.85185"
+       height="28.395062"
+       id="rect50" />
+    <rect
+       x="33.333333"
+       y="796.2963"
+       width="317.28395"
+       height="28.395062"
+       id="rect49" />
+    <rect
+       x="30.864198"
+       y="748.14815"
+       width="374.07407"
+       height="32.098765"
+       id="rect32" />
+    <rect
+       x="40.740741"
+       y="703.7037"
+       width="428.39506"
+       height="25.925926"
+       id="rect2" />
+    <rect
+       x="1207.7384"
+       y="799.03066"
+       width="341.53258"
+       height="24.748737"
+       id="rect41" />
+    <rect
+       x="1273.4993"
+       y="848.52814"
+       width="271.529"
+       height="24.041631"
+       id="rect40" />
+    <rect
+       x="1369.6658"
+       y="896.6114"
+       width="176.06959"
+       height="25.455844"
+       id="rect36" />
+    <rect
+       x="1231.0729"
+       y="798.32356"
+       width="314.66252"
+       height="25.455844"
+       id="rect35" />
+    <rect
+       x="1215.5166"
+       y="800.44488"
+       width="332.34019"
+       height="26.870058"
+       id="rect34" />
+    <rect
+       x="1162.4836"
+       y="748.82608"
+       width="386.0803"
+       height="28.991378"
+       id="rect27" />
+    <rect
+       x="1115.1074"
+       y="704.98546"
+       width="429.92092"
+       height="21.213203"
+       id="rect25" />
+    <rect
+       x="1102.3795"
+       y="703.57125"
+       width="449.71991"
+       height="22.627417"
+       id="rect24" />
+    <rect
+       x="814.58701"
+       y="1042.2754"
+       width="526.08745"
+       height="31.112698"
+       id="rect22" />
+    <rect
+       x="808.93016"
+       y="984.29264"
+       width="444.06306"
+       height="31.112698"
+       id="rect18" />
+    <rect
+       x="810.34437"
+       y="931.96674"
+       width="360.62446"
+       height="25.455844"
+       id="rect9" />
+    <rect
+       x="811.75859"
+       y="876.81241"
+       width="299.81328"
+       height="22.627417"
+       id="rect8" />
+    <rect
+       x="811.75859"
+       y="817.41544"
+       width="223.44574"
+       height="28.284271"
+       id="rect5" />
+    <rect
+       x="806.10173"
+       y="758.01847"
+       width="147.07821"
+       height="28.284271"
+       id="rect1" />
+    <rect
+       x="1529.472"
+       y="191.62594"
+       width="29.698485"
+       height="22.627417"
+       id="rect26" />
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+    <rect
+       x="979.63607"
+       y="546.86511"
+       width="515.15572"
+       height="24.758013"
+       id="rect20" />
+    <linearGradient
+       id="swatch46"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop46" />
+    </linearGradient>
+    <linearGradient
+       id="swatch45"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop45" />
+    </linearGradient>
+    <linearGradient
+       id="swatch20"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50162px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.212697;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="266.06113"
+       y="31.719173"
+       id="text17-40"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50162px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.212697;stroke-dasharray:none;stroke-opacity:1"
+         x="266.06113"
+         y="31.719173"
+         id="tspan20-78">Нарушение на последователността и методиката на </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50162px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.212697;stroke-dasharray:none;stroke-opacity:1"
+         x="266.06113"
+         y="36.096199"
+         id="tspan10">обучение на летателния състав</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0101;stroke-width:0.777464;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 232.56868,156.66193 160.49309,-0.005 0.017,5.45949 20.78892,-12.67896 -20.81018,-14.50255 -0.019,5.42999 -160.46782,-0.13264"
+       id="path3-4-5"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.777464;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.91996,156.66217 -160.492661,-0.005 -0.017,5.45949 -20.7889151,-12.67896 20.8101751,-14.50255 0.019,5.42999 160.467391,-0.13264"
+       id="path3-4-5-4"
+       sodipodi:nodetypes="ccccccc" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
+       id="path46"
+       cx="210"
+       cy="148.5"
+       rx="19.884077"
+       ry="19.836239" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.800011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       d="M 209.94548,133.01648 51.766787,15.038273 55.520909,10.156002 27.446111,10.266964 35.233781,36.374268 38.601484,31.9945 196.91418,150.07266 Z"
+       id="path60-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="203.88847"
+       y="141.69145"
+       id="text3" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.799999;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="202.59398"
+       y="141.43845"
+       id="text16" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 275.45041,110.53669 9.04096,0.0574"
+       id="path16-2-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1f53ff;stroke-width:0.800011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 209.32008,133.01648 158.1787,-117.978207 -3.75413,-4.882271 28.0748,0.110962 -7.78767,26.107304 -3.3677,-4.379768 -158.3127,118.07816 z"
+       id="path60-3-7" />
+    <g
+       id="g16"
+       transform="translate(0,-2.1172024)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 317.33548,133.77919 10e-4,-11.24694 23.10746,0.002 -0.005,11.24366 z"
+         id="path9-86-4-1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.692092;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 250.29625,133.81738 15.44991,-11.30507 44.97806,-0.008 -0.002,11.31217 z"
+         id="path9-86-3-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 294.48713,142.33223 0.006,-8.56275"
+         id="path16-2-5-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 379.15399,133.7792 10e-4,-11.24694 23.10746,0.002 -0.005,11.24366 z"
+         id="path9-86-4-3-9"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 347.74465,133.7792 0.001,-11.24694 23.10746,0.002 -0.005,11.24366 z"
+         id="path9-86-4-6-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 328.88677,142.6955 0.006,-8.56275"
+         id="path16-2-5-5-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 359.29594,142.43091 0.006,-8.56275"
+         id="path16-2-5-6-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 390.70528,142.43091 0.006,-8.56275"
+         id="path16-2-5-53-3"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g14"
+       style="stroke:#1f53ff;stroke-opacity:1"
+       transform="translate(3.1750001,-2.6460619)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.690402;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 277.70361,115.51969 12.94783,-9.30368 117.53312,0.0117 -3.3e-4,9.30159 z"
+         id="path9-86-42"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 294.67301,102.546 12.96239,-9.276053 100.52001,-8.65e-4 0.0186,9.294658 z"
+         id="path9-0-45-6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 310.65707,89.550628 12.98262,-8.85452 84.50397,-0.434049 c 0.048,3.151399 0.0195,3.899036 0.0269,9.294382 z"
+         id="path9-04-4-9"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 327.68246,76.55065 13.95755,-9.296788 66.53625,3.43e-4 -0.009,9.293924 z"
+         id="path9-6-1-8"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 363.6059,49.55826 12.02958,-8.744293 32.51979,-0.01654 0.0284,8.762823 z"
+         id="path9-8-4-9"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.728302;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 362.78049,45.309006 6.20963,-0.01052"
+         id="path11-0-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.749562;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 344.8351,58.572893 7.82514,-0.02859"
+         id="path12-4-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.733932;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 327.24674,71.814044 7.39895,0.02863"
+         id="path13-5-0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.745367;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 309.26327,85.083784 h 7.80341"
+         id="path14-5-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.718133;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 291.89361,98.324762 h 8.63885"
+         id="path15-7-5" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 345.64521,63.554723 12.98769,-9.285004 49.52068,-0.02008 0.01,9.303228 z"
+         id="path9-9-11-6"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g15"
+       transform="translate(0,-2.1540092)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         d="m 108.84836,126.00656 30.18741,-1.04094"
+         id="path1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 101.78587,133.81633 -0.001,-11.24694 -23.107472,0.002 0.005,11.24366 z"
+         id="path9-86-4-1-2"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.692092;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 168.82523,133.85452 -15.44991,-11.30507 -44.97816,-0.008 0.002,11.31217 z"
+         id="path9-86-3-5-4"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.63435,142.36937 -0.006,-8.56275"
+         id="path16-2-5-4-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.967348,133.81634 -10e-4,-11.24694 -23.107471,0.002 0.005,11.24366 z"
+         id="path9-86-4-3-9-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 71.376688,133.81634 -0.001,-11.24694 -23.10746,0.002 0.005,11.24366 z"
+         id="path9-86-4-6-3-6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 90.234568,142.73264 -0.006,-8.56275"
+         id="path16-2-5-5-8-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.825398,142.46805 -0.006,-8.56275"
+         id="path16-2-5-6-6-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 28.416054,142.46805 -0.006,-8.56275"
+         id="path16-2-5-53-3-1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g11"
+       transform="translate(0.52867098,-0.03724434)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.690402;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 138.24285,112.94844 -12.94783,-9.30368 -117.5332484,0.0117 3.3e-4,9.30159 z"
+         id="path9-86-42-8"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.27345,99.937293 -12.96246,-9.275997 -100.5200684,-8.65e-4 -0.0186,9.294602 z"
+         id="path9-0-45-6-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 105.2893,86.941977 92.306652,78.087457 7.8026716,77.653408 c -0.048,3.151399 -0.0195,3.899036 -0.0269,9.294382 z"
+         id="path9-04-4-9-0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.263882,73.941999 -13.95755,-9.296788 -66.5362604,3.43e-4 0.009,9.293924 z"
+         id="path9-6-1-8-6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 52.340442,46.949609 -12.02958,-8.744293 -32.5198004,-0.01654 -0.0284,8.762823 z"
+         id="path9-8-4-9-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 52.316822,42.700277 -5.76947,0.05165"
+         id="path11-0-7-6" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.71442;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.300374,55.964287 -7.08634,-0.02868"
+         id="path12-4-2-0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.137462,69.205356 -6.83594,0.0287"
+         id="path13-5-0-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.711071;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 105.88797,82.475133 H 98.786118"
+         id="path14-5-1-7" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.697421;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 123.52368,95.716087 H 115.3759"
+         id="path15-7-5-6" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.693915;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.96644,107.92794 -8.71267,0.0575"
+         id="path16-2-0-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.301132,60.946072 -12.98769,-9.285004 -49.5206904,-0.02008 -0.01,9.303228 z"
+         id="path9-9-11-6-2"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g13"
+       transform="translate(-1.0588007,-1.0583333)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.771704;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 59.558921,14.154921 74.031498,24.55421 205.40556,24.541132 205.40519,14.14418 Z"
+         id="path9-86-42-8-9"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 78.526652,28.698271 14.488929,10.368346 112.357389,9.67e-4 0.0208,-10.389142 z"
+         id="path9-0-45-6-5-9"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 96.393108,43.223926 14.511492,9.897236 94.45524,0.485163 c 0.0537,-3.522511 0.0218,-4.35819 0.0301,-10.388896 z"
+         id="path9-04-4-9-0-4"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.42345,57.754792 15.6012,10.391585 74.37163,-3.83e-4 -0.0101,-10.388384 z"
+         id="path9-6-1-8-6-7"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.57727,87.925827 13.44619,9.774028 36.34936,0.01849 0.0317,-9.79474 z"
+         id="path9-8-4-9-5-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.803102;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.33109,92.675512 6.68406,-0.05763"
+         id="path11-0-7-6-5" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.798551;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 135.50236,77.849574 7.92083,0.03206"
+         id="path12-4-2-0-6" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.56476,63.049226 7.64095,-0.03208"
+         id="path13-5-0-1-9" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.794807;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95.723938,48.216789 h 7.938172"
+         id="path14-5-1-7-9" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.77955;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 76.011433,33.41657 h 9.107269"
+         id="path15-7-5-6-4" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.775631;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 57.63236,19.766639 9.738681,-0.06427"
+         id="path16-2-0-6-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 135.50151,72.28113 14.51713,10.378413 55.35229,0.02245 0.0112,-10.398784 z"
+         id="path9-9-11-6-2-6"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g12"
+       transform="matrix(1.0000015,0,0,0.99999999,13.758041,-0.79375043)"
+       style="stroke:#1f53ff;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.771704;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 346.53141,13.890374 -14.47258,10.399294 -131.37406,-0.01308 3.7e-4,-10.396957 z"
+         id="path9-86-42-8-9-7"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 327.56368,28.433729 313.07475,38.802075 200.71736,38.803042 200.69656,28.4139 Z"
+         id="path9-0-45-6-5-9-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 309.69722,42.959384 -14.51149,9.897236 -94.45524,0.485163 c -0.0537,-3.522511 -0.0218,-4.35819 -0.0301,-10.388896 z"
+         id="path9-04-4-9-0-4-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 290.66688,57.49025 -15.6012,10.391585 -74.37163,-3.83e-4 0.0101,-10.388384 z"
+         id="path9-6-1-8-6-7-2"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 250.51306,87.661285 -13.44619,9.774028 -36.34936,0.01849 -0.0317,-9.79474 z"
+         id="path9-8-4-9-5-3-4"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.803102;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 250.75924,92.41097 -6.68406,-0.05763"
+         id="path11-0-7-6-5-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.798551;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 270.58797,77.585032 -7.92083,0.03206"
+         id="path12-4-2-0-6-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 290.52557,62.784684 -7.64095,-0.03208"
+         id="path13-5-0-1-9-5" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.794807;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 310.36639,47.952247 h -7.93817"
+         id="path14-5-1-7-9-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.77955;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 330.0789,33.152028 h -9.10727"
+         id="path15-7-5-6-4-4" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.775631;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 348.45797,19.502095 -9.73868,-0.06427"
+         id="path16-2-0-6-8-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 270.58882,72.016588 -14.51713,10.378413 -55.35229,0.02245 -0.0112,-10.398784 z"
+         id="path9-9-11-6-2-6-9"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.95814px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.179684;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="410.36456"
+       y="41.42511"
+       id="text17-400"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.95814px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.179684;stroke-dasharray:none;stroke-opacity:1"
+         x="410.36456"
+         y="41.42511"
+         id="tspan20-9">Ниско ниво на </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.95814px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.179684;stroke-dasharray:none;stroke-opacity:1"
+         x="410.36456"
+         y="45.122784"
+         id="tspan28">теоретична подготовка</tspan><tspan
+         sodipodi:role="line"
+         x="410.36456"
+         y="48.820461"
+         id="tspan26" /></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1f53ff;stroke-width:0.800011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 209.94565,163.92778 -158.1787,117.97821 3.75413,4.88227 -28.074802,-0.11096 7.78767,-26.10731 3.367703,4.37977 L 196.91435,146.8716 Z"
+       id="path60-3-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.800011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 209.32053,163.92822 158.1787,117.97821 -3.75413,4.88227 28.0748,-0.11096 -7.78767,-26.10731 -3.3677,4.37977 -158.3127,-118.07816 z"
+       id="path60-3-3-9" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1"
+       id="path46-2"
+       cx="210"
+       cy="148.5"
+       rx="19.884077"
+       ry="19.836239" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.689999;stroke-dasharray:none;stroke-opacity:1"
+       id="path13"
+       cx="210"
+       cy="148.5"
+       r="21.232813" />
+    <ellipse
+       style="fill:#ffffff;stroke:#1f53ff;stroke-width:0.834242;stroke-opacity:1"
+       id="path2-8-7"
+       transform="scale(-1,1)"
+       ry="2.8713679"
+       rx="8.0783215"
+       cy="135.22307"
+       cx="-210" />
+    <ellipse
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.01402;stroke-opacity:1"
+       id="path3-4-2"
+       transform="scale(-1,1)"
+       ry="2.394978"
+       rx="12.092916"
+       cy="136.35794"
+       cx="-210" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92211px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.177496;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="210.16537"
+       y="131.21819"
+       id="text17-4-7"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92211px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.177496;stroke-dasharray:none;stroke-opacity:1"
+         x="210.16537"
+         y="131.21819"
+         id="tspan20-4-4">Група</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#1f53ff;stroke-width:0.834242;stroke-opacity:1"
+       id="path2-8"
+       cx="-210"
+       cy="-162.30309"
+       rx="8.0783215"
+       ry="2.8713679"
+       transform="scale(-1)" />
+    <ellipse
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.01402;stroke-opacity:1"
+       id="path3-4"
+       cx="-210"
+       cy="-161.16821"
+       rx="12.092916"
+       ry="2.394978"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81997px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.232034;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="210.75626"
+       y="142.24246"
+       id="text17"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81997px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.232034;stroke-dasharray:none;stroke-opacity:1"
+         x="210.75626"
+         y="142.24246">Основни </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81997px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.232034;stroke-dasharray:none;stroke-opacity:1"
+         x="210.75626"
+         y="147.01743"
+         id="tspan18">причини за</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81997px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.232034;stroke-dasharray:none;stroke-opacity:1"
+         x="210.75626"
+         y="151.79239"
+         id="tspan19">авиационни </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81997px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.232034;stroke-dasharray:none;stroke-opacity:1"
+         x="210.75626"
+         y="156.56735"
+         id="tspan20">катастрофи</tspan></text>
+    <g
+       id="g16-0"
+       transform="matrix(1,0,0,-1,1.7633333e-6,299.32873)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 317.33548,133.77919 10e-4,-11.24694 23.10746,0.002 -0.005,11.24366 z"
+         id="path9-86-4-1-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.692092;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 250.29625,133.81738 15.44991,-11.30507 44.97806,-0.008 -0.002,11.31217 z"
+         id="path9-86-3-5-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 294.48713,142.33223 0.006,-8.56275"
+         id="path16-2-5-4-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 379.15399,133.7792 10e-4,-11.24694 23.10746,0.002 -0.005,11.24366 z"
+         id="path9-86-4-3-9-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 347.74465,133.7792 0.001,-11.24694 23.10746,0.002 -0.005,11.24366 z"
+         id="path9-86-4-6-3-8"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 328.88677,142.6955 0.006,-8.56275"
+         id="path16-2-5-5-8-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 359.29594,142.43091 0.006,-8.56275"
+         id="path16-2-5-6-6-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 390.70528,142.43091 0.006,-8.56275"
+         id="path16-2-5-53-3-5"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g15-1"
+       transform="matrix(1,0,0,-1,1.7633333e-6,299.36621)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         d="m 108.84836,126.00656 30.18741,-1.04094"
+         id="path1-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 101.78587,133.81633 -0.001,-11.24694 -23.107472,0.002 0.005,11.24366 z"
+         id="path9-86-4-1-2-4"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.692092;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 168.82523,133.85452 -15.44991,-11.30507 -44.97816,-0.008 0.002,11.31217 z"
+         id="path9-86-3-5-4-6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.63435,142.36937 -0.006,-8.56275"
+         id="path16-2-5-4-4-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.967348,133.81634 -10e-4,-11.24694 -23.107471,0.002 0.005,11.24366 z"
+         id="path9-86-4-3-9-3-6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.742086;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 71.376688,133.81634 -0.001,-11.24694 -23.10746,0.002 0.005,11.24366 z"
+         id="path9-86-4-6-3-6-1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 90.234568,142.73264 -0.006,-8.56275"
+         id="path16-2-5-5-8-4-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.825398,142.46805 -0.006,-8.56275"
+         id="path16-2-5-6-6-9-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.668996;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 28.416054,142.46805 -0.006,-8.56275"
+         id="path16-2-5-53-3-1-5"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g14-3"
+       transform="matrix(1,0,0,-1,3.1750019,299.85804)"
+       style="stroke:#000000;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.690402;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 277.70361,115.55715 12.94783,-9.30368 117.53312,0.0117 -3.3e-4,9.30159 z"
+         id="path9-86-42-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 294.67301,102.546 12.96239,-9.276053 100.52001,-8.65e-4 0.0186,9.294658 z"
+         id="path9-0-45-6-9"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 310.65707,89.550628 12.98262,-8.85452 84.50397,-0.434049 c 0.048,3.151399 0.0195,3.899036 0.0269,9.294382 z"
+         id="path9-04-4-9-7"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 327.68246,76.55065 13.95755,-9.296788 66.53625,3.43e-4 -0.009,9.293924 z"
+         id="path9-6-1-8-7"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 363.6059,49.55826 12.02958,-8.744293 32.51979,-0.01654 0.0284,8.762823 z"
+         id="path9-8-4-9-0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.696612;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 363.78669,45.309016 5.67055,-0.01054"
+         id="path11-0-7-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.68609;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 346.13952,58.572974 6.51887,-0.02875"
+         id="path12-4-2-9" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.692713;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 328.30035,71.81399 6.56627,0.02874"
+         id="path13-5-0-8" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.699673;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 310.43874,85.083784 h 6.87599"
+         id="path14-5-1-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.681455;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 292.75351,98.324762 h 7.77895"
+         id="path15-7-5-0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 345.64521,63.554723 12.98769,-9.285004 49.52068,-0.02008 0.01,9.303228 z"
+         id="path9-9-11-6-4"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g11-4"
+       transform="matrix(1,0,0,-1,0.5291664,297.24928)"
+       style="stroke:#1f53ff;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.690402;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 138.24285,112.94844 -12.94783,-9.30368 -117.5332484,0.0117 3.3e-4,9.30159 z"
+         id="path9-86-42-8-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.27345,99.937293 -12.96246,-9.275997 -100.5200684,-8.65e-4 -0.0186,9.294602 z"
+         id="path9-0-45-6-5-4"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 105.2893,86.941977 92.306652,78.087457 7.8026716,77.653408 c -0.048,3.151399 -0.0195,3.899036 -0.0269,9.294382 z"
+         id="path9-04-4-9-0-1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.263882,73.941999 -13.95755,-9.296788 -66.5362604,3.43e-4 0.009,9.293924 z"
+         id="path9-6-1-8-6-2"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 52.340442,46.949609 -12.02958,-8.744293 -32.5198004,-0.01654 -0.0284,8.762823 z"
+         id="path9-8-4-9-5-31"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.673962;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 51.777641,42.700162 -5.228988,0.05188"
+         id="path11-0-7-6-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.678513;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 69.586093,55.964334 63.21504,55.93556"
+         id="path12-4-2-0-0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.670168;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 87.434849,69.205307 -6.132297,0.0288"
+         id="path13-5-0-1-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.66884;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 105.06946,82.475133 H 98.786118"
+         id="path14-5-1-7-6" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.664068;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 122.763,95.716087 h -7.3871"
+         id="path15-7-5-6-9" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.660718;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.12338,107.92783 -7.86845,0.0577"
+         id="path16-2-0-6-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.301132,60.946072 -12.98769,-9.285004 -49.5206904,-0.02008 -0.01,9.303228 z"
+         id="path9-9-11-6-2-4"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g13-5"
+       transform="matrix(1,0,0,-1,0.5291684,297.74132)"
+       style="stroke:#1f53ff;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.771704;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 58.500587,14.154921 72.973164,24.55421 204.34722,24.541132 204.34685,14.14418 Z"
+         id="path9-86-42-8-9-8"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 77.468318,28.698271 14.488929,10.368346 112.357383,9.67e-4 0.0208,-10.389142 z"
+         id="path9-0-45-6-5-9-32"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95.334774,43.223926 14.511486,9.897236 94.45524,0.485163 c 0.0537,-3.522511 0.0218,-4.35819 0.0301,-10.388896 z"
+         id="path9-04-4-9-0-4-51"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 114.36511,57.754792 15.6012,10.391585 74.37163,-3.83e-4 -0.0101,-10.388384 z"
+         id="path9-6-1-8-6-7-0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 154.51893,87.925827 13.44619,9.774028 36.34936,0.01849 0.0317,-9.79474 z"
+         id="path9-8-4-9-5-3-6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.803102;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 154.80192,93.204679 6.68406,-0.05763"
+         id="path11-0-7-6-5-0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.798551;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 134.97319,78.378741 7.92083,0.03206"
+         id="path12-4-2-0-6-21" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.03559,63.578393 7.64095,-0.03208"
+         id="path13-5-0-1-9-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.794807;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95.194771,48.745956 h 7.938169"
+         id="path14-5-1-7-9-5" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.77955;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 75.482266,33.945737 h 9.107269"
+         id="path15-7-5-6-4-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.775631;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 57.103193,20.295806 9.738681,-0.06427"
+         id="path16-2-0-6-8-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 134.44317,72.28113 14.51713,10.378413 55.35229,0.02245 0.0112,-10.398784 z"
+         id="path9-9-11-6-2-6-0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g12-1"
+       transform="matrix(1.0000015,0,0,-0.99999999,12.699947,297.47644)"
+       style="stroke:#000000;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.771704;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 346.53141,13.890374 -14.47258,10.399294 -131.37406,-0.01308 3.7e-4,-10.396957 z"
+         id="path9-86-42-8-9-7-3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 327.56368,28.433729 313.07475,38.802075 200.71736,38.803042 200.69656,28.4139 Z"
+         id="path9-0-45-6-5-9-3-1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 309.69722,42.959384 -14.51149,9.897236 -94.45524,0.485163 c -0.0537,-3.522511 -0.0218,-4.35819 -0.0301,-10.388896 z"
+         id="path9-04-4-9-0-4-5-1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 290.66688,57.49025 -15.6012,10.391585 -74.37163,-3.83e-4 0.0101,-10.388384 z"
+         id="path9-6-1-8-6-7-2-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 250.51306,87.661285 -13.44619,9.774028 -36.34936,0.01849 -0.0317,-9.79474 z"
+         id="path9-8-4-9-5-3-4-0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.862906;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 251.65288,92.410282 -7.75869,-0.05732"
+         id="path11-0-7-6-5-3-0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.85057;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 271.88893,77.584766 -9.01468,0.03196"
+         id="path12-4-2-0-6-2-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.844253;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 291.61332,62.784516 -8.774,-0.03194"
+         id="path13-5-0-1-9-5-7" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.857805;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 311.48203,47.952363 h -9.24658"
+         id="path14-5-1-7-9-1-0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.833962;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 331.36442,33.15236 H 320.94126"
+         id="path15-7-5-6-4-4-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.824718;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="M 349.76423,19.502422 338.6837,19.438554"
+         id="path16-2-0-6-8-2-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.789555;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 270.58882,72.016588 -14.51713,10.378413 -55.35229,0.02245 -0.0112,-10.398784 z"
+         id="path9-9-11-6-2-6-9-2"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       style="fill:#140000;fill-opacity:1;stroke:#000000;stroke-width:0.649552;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 281.18802,190.92163 8.31372,0.0528"
+       id="path16-2-0-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92211px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.177496;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="210.16537"
+       y="167.58733"
+       id="text17-4"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92211px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.177496;stroke-dasharray:none;stroke-opacity:1"
+         x="210.16537"
+         y="167.58733"
+         id="tspan20-4">Група</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.26362px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.380467;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="298.02963"
+       y="19.063105"
+       id="text17-2"
+       transform="scale(0.93046406,1.0747325)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.26362px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.380467;stroke-dasharray:none;stroke-opacity:1"
+         x="298.02963"
+         y="19.063105"
+         id="tspan20-7">Липса на подготовка на инструкторите</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44883px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.20949;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="264.11392"
+       y="45.544842"
+       id="text17-3"
+       transform="scale(0.98815909,1.0119828)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44883px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.20949;stroke-dasharray:none;stroke-opacity:1"
+         x="264.11392"
+         y="45.544842"
+         id="tspan20-6">Лошо изучаване и отчитане на индивидуалните </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44883px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.20949;stroke-dasharray:none;stroke-opacity:1"
+         x="264.11392"
+         y="49.855881"
+         id="tspan13">качества при обучението на летателния състав</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.13128px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.190202;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="227.33507"
+       y="79.953568"
+       id="text17-6"
+       transform="scale(1.0593006,0.9440191)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.13128px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.190202;stroke-dasharray:none;stroke-opacity:1"
+         x="227.33507"
+         y="79.953568"
+         id="tspan20-77">Грешки, които не са </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.13128px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.190202;stroke-dasharray:none;stroke-opacity:1"
+         x="227.33507"
+         y="83.867668"
+         id="tspan30">коригирани от инструктора</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06997px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.186477;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="226.29034"
+       y="93.866211"
+       id="text17-0"
+       transform="scale(1.0379584,0.96342975)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06997px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.186477;stroke-dasharray:none;stroke-opacity:1"
+         x="226.29034"
+         y="93.866211"
+         id="tspan20-40">Големи прекъсвания </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06997px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.186477;stroke-dasharray:none;stroke-opacity:1"
+         x="226.29034"
+         y="97.703674"
+         id="tspan29">и редки полети</tspan><tspan
+         sodipodi:role="line"
+         x="226.29034"
+         y="101.54114"
+         id="tspan23"
+         style="stroke-width:0.186477" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text26"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect26);display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:2.60787;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.42797px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.390449;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="195.24353"
+       y="244.72238"
+       id="text17-400-6"
+       transform="matrix(0.79921523,-0.59960492,0.60064341,0.80059943,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.42797px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.390449;stroke-dasharray:none;stroke-opacity:1"
+         x="195.24353"
+         y="244.72238"
+         id="tspan26-5">Недостатъци в обучението на летателния състав</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1f53ff;stroke-width:0.7746;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 284.58265,110.5796 -9.2249,0.0117"
+       id="path16-2-0-6-1-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.92378px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.299081;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="140.16614"
+       y="-7.481091"
+       id="text17-400-6-8"
+       transform="matrix(0.79516688,0.60496336,-0.60601112,0.79654408,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.92378px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.299081;stroke-dasharray:none;stroke-opacity:1"
+         x="140.16614"
+         y="-7.481091"
+         id="tspan26-5-4">Недостатъци в организацията, ръководсктво и осигуряване на полети</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80425px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.413305;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="366.1398"
+       y="-3.8245554"
+       id="text17-400-6-8-9"
+       transform="matrix(0.79724411,0.60222328,-0.6032663,0.7986249,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.413305;stroke-dasharray:none;stroke-opacity:1"
+         x="366.1398"
+         y="-3.8245554"
+         id="tspan26-5-4-5">Лични недостатъци сред летателния състав</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.95611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.361787;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="-35.356155"
+       y="244.60085"
+       id="text17-400-6-8-9-0"
+       transform="matrix(0.79974505,-0.59889807,0.59993534,0.80113016,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.95611px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.361787;stroke-dasharray:none;stroke-opacity:1"
+         x="-35.356155"
+         y="244.60085"
+         id="tspan26-5-4-5-7">Нарушен преполетен режим и неразположеност</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.95611px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.361787;stroke-dasharray:none;stroke-opacity:1"
+         x="-35.356155"
+         y="252.04599"
+         id="tspan31"> сред летателния състав</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.74782px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.166909;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="409.96063"
+       y="55.263744"
+       id="text17-400-7"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.74782px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.166909;stroke-dasharray:none;stroke-opacity:1"
+         x="409.96063"
+         y="55.263744"
+         id="tspan2">Липса на обобщаване и </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.74782px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.166909;stroke-dasharray:none;stroke-opacity:1"
+         x="409.96063"
+         y="58.698521"
+         id="tspan4">разпространение на летателния опит</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80734px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.170525;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="409.46478"
+       y="68.232201"
+       id="text17-400-7-2"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80734px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.170525;stroke-dasharray:none;stroke-opacity:1"
+         x="409.46478"
+         y="68.232201"
+         id="tspan6">Неправилно използване на оборудването</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80734px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.170525;stroke-dasharray:none;stroke-opacity:1"
+         x="409.46478"
+         y="71.741379"
+         id="tspan7"> за обучение и неправилен тренаж в кабините</tspan><tspan
+         sodipodi:role="line"
+         x="409.46478"
+         y="75.250549"
+         id="tspan5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54267px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.154448;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="409.73392"
+       y="81.317963"
+       id="text17-400-7-4"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54267px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.154448;stroke-dasharray:none;stroke-opacity:1"
+         x="409.73392"
+         y="81.317963"
+         id="tspan4-1">Недостатъчно познаване на документите за безопасност</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54267px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.154448;stroke-dasharray:none;stroke-opacity:1"
+         x="409.73392"
+         y="84.4963"
+         id="tspan11">на полетитеи анализ на предпоставките за полетни произшествия</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.74782px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.166909;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="409.46411"
+       y="94.244316"
+       id="text17-400-7-6"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.74782px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.166909;stroke-dasharray:none;stroke-opacity:1"
+         x="409.46411"
+         y="94.244316"
+         id="tspan4-9">Неразработена автоматизация</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.74782px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.166909;stroke-dasharray:none;stroke-opacity:1"
+         x="409.46411"
+         y="97.679092"
+         id="tspan12">на действията на летателния състав с оборудването във въздуха</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82874px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.171824;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="261.70523"
+       y="59.047955"
+       id="text17-400-7-24"
+       transform="scale(0.97048654,1.030411)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82874px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.171824;stroke-dasharray:none;stroke-opacity:1"
+         x="261.70523"
+         y="59.047955"
+         id="tspan14">Неспособност за разпознаване на склонности към </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82874px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.171824;stroke-dasharray:none;stroke-opacity:1"
+         x="261.70523"
+         y="62.583878"
+         id="tspan15">нарушения и хулиганство във въздуха</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.07872px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.187008;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="386.87918"
+       y="113.60116"
+       id="text17-400-7-6-5"
+       transform="scale(1.058738,0.94452075)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.07872px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.187008;stroke-dasharray:none;stroke-opacity:1"
+         x="386.87918"
+         y="113.60116"
+         id="tspan12-9">Неспособност на екипажа да анализира метеорологичните условия</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.07872px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.187008;stroke-dasharray:none;stroke-opacity:1"
+         x="386.87918"
+         y="117.44956"
+         id="tspan21">във въздуха и да информира ръководителя на полета</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="248.70081"
+       y="155.74016"
+       id="text504" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="238.70081"
+       y="145.74016"
+       id="text540" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="238.70081"
+       y="145.74016"
+       id="text544" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="238.70081"
+       y="145.74016"
+       id="text548"><tspan
+         sodipodi:role="line"
+         id="tspan546"
+         x="238.70081"
+         y="145.74016"
+         style="font-size:7.05556px;line-height:0.75;stroke-width:0.264583">Откази на авиационната техника и</tspan><tspan
+         sodipodi:role="line"
+         x="238.70081"
+         y="153.67766"
+         style="font-size:7.05556px;line-height:0.75;stroke-width:0.264583"
+         id="tspan550">грешки при нейната експлоатация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="263.70081"
+       y="125.74016"
+       id="text554"><tspan
+         sodipodi:role="line"
+         x="263.70081"
+         y="125.74016"
+         style="font-size:3.52778px;line-height:0.1;stroke-width:0.264583"
+         id="tspan564">Лошо качество на изпълн. на</tspan><tspan
+         sodipodi:role="line"
+         x="263.70081"
+         y="128.2785"
+         style="font-size:3.52778px;line-height:0.1;stroke-width:0.264583"
+         id="tspan568">реглаmентните и реmонтни</tspan><tspan
+         sodipodi:role="line"
+         x="263.70081"
+         y="130.81685"
+         style="font-size:3.52778px;line-height:0.1;stroke-width:0.264583"
+         id="tspan570">dейности</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="318.70081"
+       y="125.74016"
+       id="text574" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="318.70081"
+       y="125.74016"
+       id="text580"><tspan
+         sodipodi:role="line"
+         x="318.70081"
+         y="125.74016"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan582">Лоша преdпол.</tspan><tspan
+         sodipodi:role="line"
+         x="318.70081"
+         y="128.38599"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan586">поdг. на среdст.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="348.70081"
+       y="125.74016"
+       id="text590"><tspan
+         sodipodi:role="line"
+         x="348.70081"
+         y="125.74016"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan592">Hеправилна раb.</tspan><tspan
+         sodipodi:role="line"
+         x="348.70081"
+         y="128.38599"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan596">с арmатурите</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="383.70078"
+       y="125.74016"
+       id="text600"><tspan
+         sodipodi:role="line"
+         id="tspan598"
+         x="383.70078"
+         y="125.74016"
+         style="line-height:0.75;stroke-width:0.264583">Hеправ. dейств.</tspan><tspan
+         sodipodi:role="line"
+         x="383.70078"
+         y="128.38599"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan602">при отказ на AT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="263.70081"
+       y="170.74016"
+       id="text606"><tspan
+         sodipodi:role="line"
+         x="263.70081"
+         y="170.74016"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan608">Hиско ниво на знания</tspan><tspan
+         sodipodi:role="line"
+         x="263.70081"
+         y="173.38599"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan612">на лет. и техн. състав</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="318.70081"
+       y="170.74016"
+       id="text620"><tspan
+         sodipodi:role="line"
+         id="tspan618"
+         x="318.70081"
+         y="170.74016"
+         style="line-height:0.75;stroke-width:0.264583">Hезнание на</tspan><tspan
+         sodipodi:role="line"
+         x="318.70081"
+         y="173.38599"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan622">слаb. mеста</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="348.70081"
+       y="170.74016"
+       id="text626"><tspan
+         sodipodi:role="line"
+         x="348.70081"
+         y="170.74016"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan628">Липса на заdълb.</tspan><tspan
+         sodipodi:role="line"
+         x="348.70081"
+         y="173.38599"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan632">анализ на откази</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="383.70078"
+       y="170.74016"
+       id="text636"><tspan
+         sodipodi:role="line"
+         x="383.70078"
+         y="170.74016"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan638">Yкриване на</tspan><tspan
+         sodipodi:role="line"
+         x="383.70078"
+         y="173.38599"
+         style="line-height:0.75;stroke-width:0.264583"
+         id="tspan642">откази на AT</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:18.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:0.99;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5"
+       style="font-size:18.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;opacity:0.99;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text24"
+       style="font-size:18.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);display:inline;opacity:0.99;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text27"
+       style="font-size:18.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect27);display:inline;opacity:0.99;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text34"
+       style="font-size:18.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect34);display:inline;opacity:0.99;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text35"
+       style="font-size:12px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect35);shape-padding:0;display:inline;opacity:0.99;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="fill:#000000;text-orientation:auto;opacity:0.99;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text32"
+       style="fill:#000000;text-orientation:auto;opacity:0.99;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text51"
+       style="fill:#000000;text-orientation:auto;opacity:0.99;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect51)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text52"
+       style="fill:#000000;text-orientation:auto;opacity:0.99;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect52)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text55"
+       style="fill:#000000;text-orientation:auto;opacity:0.99;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect55)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text57"
+       style="fill:#000000;text-orientation:auto;opacity:0.99;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect57)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0,0.21337366)"
+       id="text61"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect61);opacity:0.99;fill:#000000"><tspan
+         x="64.599609"
+         y="472.22101"
+         id="tspan51">ниско ниво </tspan><tspan
+         x="64.599609"
+         y="488.88764"
+         id="tspan52">на </tspan><tspan
+         x="64.599609"
+         y="507.13898"
+         id="tspan54"><tspan
+           dx="0 8.2877398 8.5351343 7.1223774 8.5937271 8.5351372 8.4960709 8.2747192 8.5351295 8.4960785 8.0077896 4.6874847 8.5351334 4.6874924 8.0924301 8.1900787 8.3072739 8.0077896 6.9921722 8.0924225 7.9296722 8.0077972 8.4960632 8.535141 7.942688"
+           id="tspan53">дисциплина и образование
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text62"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect62)"><tspan
+         x="184.19727"
+         y="467.85578"
+         id="tspan55">нарушено </tspan><tspan
+         x="184.19727"
+         y="484.52241"
+         id="tspan56">НШО </tspan><tspan
+         x="184.19727"
+         y="510.63117"
+         id="tspan59"><tspan
+           dx="0 8.5351343 8.4960718 7.1223774 6.6145668 8.3072701 7.8906059 7.8906059 8.5937271 8.5351372 8.5351334 4.6874847 8.5351334 4.6874924 6.9921722 8.0077896 8.4960709 8.0924225 7.9296722 7.942688 8.287735 8.535141 4.6874847 8.4960785 8.007782 4.6875 9.1145477 8.4309692 10.149719"
+           id="tspan58">инструкции и заповеди на АЕЦ
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text63"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect63)"><tspan
+         x="295.9375"
+         y="470.47492"
+         id="tspan60">игнориране </tspan><tspan
+         x="295.9375"
+         y="487.14155"
+         id="tspan90">на </tspan><tspan
+         x="295.9375"
+         y="507.13898"
+         id="tspan95"><tspan
+           dx="0 9.2838306 7.942688 6.6145668 7.9426899 8.0924263 8.3072701 8.0924301 8.2747192 8.0924225 6.2825394 8.5351334 8.0728989 8.4960709 8.5351334 6.614563 7.942688 4.6874847 7.8906097 7.1223755 8.2747192 8.0924377 7.929657 8.535141 7.9947662"
+           id="tspan91">метеорологичните условия
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text64"
+       style="fill:#000000;text-orientation:auto;opacity:0.99;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect64)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text65"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect65)"><tspan
+         x="410.29688"
+         y="472.22101"
+         id="tspan96">ниски изисквания към управл. </tspan><tspan
+         x="410.29688"
+         y="488.88764"
+         id="tspan98">комп. за лично обучение</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.031586,-7.5392026)"
+       id="text66"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect66);opacity:0.99;fill:#000000"><tspan
+         x="63.726562"
+         y="638.95734"
+         id="tspan104"><tspan
+   style="font-size:1.33333px"
+   id="tspan101">нарушение </tspan><tspan
+   style="font-size:1.33333px"
+   id="tspan102">на кадровия</tspan> състав и </tspan><tspan
+         x="63.726562"
+         y="655.62397"
+         id="tspan105">лоша работа </tspan><tspan
+         x="63.726562"
+         y="677.36945"
+         id="tspan107"><tspan
+           dx="0 7.9296675 4.6874876 7.9426899 7.890604 8.5351353 8.4960709"
+           id="tspan106">в екип
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text68"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect68);opacity:0.99;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text69"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect69);opacity:0.99;fill:#000000"><tspan
+         x="412.04297"
+         y="640.70344"
+         id="tspan108">
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text71"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect71)"><tspan
+         x="263.44141"
+         y="62.701483"
+         id="tspan109">неподготвеност и безотговорност на ръководителя на полети
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text72"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect72)"><tspan
+         x="327.95703"
+         y="114.31476"
+         id="tspan110">непознаването на метеорологичните условия или </tspan><tspan
+         x="327.95703"
+         y="130.98139"
+         id="tspan111">пренебрегването им
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text73"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect73)"><tspan
+         x="394.62305"
+         y="172.37922"
+         id="tspan112">пров на полети когато са незадоволителни пистите и </tspan><tspan
+         x="394.62305"
+         y="189.04584"
+         id="tspan113">неподготвени РСТ средства
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text74"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect74)"><tspan
+         x="463.44141"
+         y="228.29328"
+         id="tspan114">лошо подготвен стартов екип</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text75"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect75)"><tspan
+         x="535.48438"
+         y="283.13117"
+         id="tspan115">опасен подход на самолет без </tspan><tspan
+         x="535.48438"
+         y="299.7978"
+         id="tspan116">мисия</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text76"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect76)"><tspan
+         x="606.45117"
+         y="342.2718"
+         id="tspan117">излитане без </tspan><tspan
+         x="606.45117"
+         y="358.93842"
+         id="tspan118">медицинско </tspan><tspan
+         x="606.45117"
+         y="377.75617"
+         id="tspan120"><tspan
+           dx="0 8.307271 8.0077925 6.9921703 8.3072701 7.9426899 11.679657 7.942688 8.4960747 8.5351334 7.942688"
+           id="tspan119">разрешение
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text77"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect77)"><tspan
+         x="32.257812"
+         y="159.47687"
+         id="tspan121">лошо планиране на </tspan><tspan
+         x="32.257812"
+         y="176.1435"
+         id="tspan122">полетен ден
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text78"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect78)"><tspan
+         x="32.257812"
+         y="210.01398"
+         id="tspan123">лоша организация на </tspan><tspan
+         x="32.257812"
+         y="226.68061"
+         id="tspan124">предварителната и </tspan><tspan
+         x="32.257812"
+         y="244.42219"
+         id="tspan126"><tspan
+           dx="0 8.4960718 8.307271 7.942688 8.2877407 8.4960709 8.0924263 8.2747192 7.942688 6.6145706 8.4960709 8.0077896 6.6145706 8.0077896 4.6874847 8.4960785 8.0924225 8.2877426 6.2825317 8.0924377 6.614563 8.0924225 7.9296722 7.8905945"
+           id="tspan125">предполетната подготовка</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text79"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect79)"><tspan
+         x="31.183594"
+         y="257.32648"
+         id="tspan127">нарушаване на документите и методите за </tspan><tspan
+         x="31.183594"
+         y="273.99311"
+         id="tspan128">подготовка на полета
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text80"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect80)"><tspan
+         x="33.333984"
+         y="305.7132"
+         id="tspan129">лоша организация на обективен контрол върху </tspan><tspan
+         x="33.333984"
+         y="322.37983"
+         id="tspan130">качеството но подготовката и изпълнението на </tspan><tspan
+         x="33.333984"
+         y="341.19758"
+         id="tspan132"><tspan
+           dx="0 8.4960718 8.0924273 8.2747173 7.942688 6.6145668 8.0077934"
+           id="tspan131">полета
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text81"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect81)"><tspan
+         x="31.183594"
+         y="357.32648"
+         id="tspan133">пускане на екипажи в полет в условия, неотговарящи на </tspan><tspan
+         x="31.183594"
+         y="373.99311"
+         id="tspan134">нивото на обучение</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text82"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.99;fill:#000000;shape-inside:url(#rect82)"><tspan
+         x="30.107422"
+         y="403.56281"
+         id="tspan135">лоша подготовка на единични екипажи и самолети по време на </tspan><tspan
+         x="30.107422"
+         y="420.22944"
+         id="tspan136">самостоятелни полети и полети на други летища </tspan></text>
+    <path
+       id="text17-400-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.13693px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.208374;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 215.69863,201.29925 c -0.004,0.15088 -0.01,0.31681 -0.0164,0.49786 -0.005,0.18107 -0.0114,0.32675 -0.0169,0.43628 -0.0156,0.33641 -0.0423,0.59543 -0.0803,0.77759 -0.0368,0.18219 -0.0948,0.31285 -0.17405,0.3922 -0.0245,0.0257 -0.0547,0.0448 -0.0904,0.0571 -0.0357,0.0122 -0.0734,0.0186 -0.11359,0.0186 -0.0167,0 -0.0336,-5.7e-4 -0.0503,-0.002 -0.0167,-0.001 -0.0306,-0.002 -0.0418,-0.003 h -0.0237 v 0.32154 c 0.0134,0 0.0372,5.9e-4 0.0707,0.002 0.0335,0.002 0.0619,0.003 0.0853,0.003 0.0759,0 0.14144,-0.0109 0.19721,-0.0317 0.0569,-0.0212 0.11204,-0.0565 0.16559,-0.10564 0.0525,-0.0481 0.0989,-0.10181 0.13902,-0.16106 0.0412,-0.0604 0.0784,-0.14072 0.11076,-0.24131 0.0324,-0.0994 0.0585,-0.22609 0.0785,-0.38032 0.0212,-0.15423 0.0363,-0.35138 0.0452,-0.59055 0.003,-0.095 0.008,-0.20254 0.0136,-0.32324 0.007,-0.12184 0.0114,-0.24614 0.0147,-0.37243 h 0.9008 v 2.20114 h 0.33115 v -2.49612 z m 14.11837,0.57868 c -0.11269,0 -0.22699,0.01 -0.34303,0.03 -0.11604,0.0201 -0.20482,0.0386 -0.26618,0.0553 v 0.32042 h 0.017 c 0.10827,-0.0413 0.21323,-0.0732 0.31476,-0.0944 0.10149,-0.0223 0.19322,-0.0333 0.27578,-0.0333 0.068,0 0.13361,0.004 0.1961,0.0136 0.0624,0.009 0.11586,0.0263 0.16049,0.0519 0.0469,0.0268 0.0828,0.0639 0.10739,0.11077 0.0257,0.0469 0.0384,0.10586 0.0384,0.17745 v 0.0486 c -0.18298,0.009 -0.35416,0.0222 -0.5137,0.0401 -0.15955,0.0178 -0.29648,0.052 -0.41028,0.10225 -0.11269,0.0503 -0.19971,0.11967 -0.26108,0.20797 -0.0603,0.0872 -0.0904,0.20165 -0.0904,0.3436 0,0.17323 0.0586,0.31603 0.17575,0.42778 0.11715,0.11178 0.25989,0.16729 0.42836,0.16729 0.0915,0 0.17156,-0.009 0.23961,-0.0266 0.068,-0.0167 0.1284,-0.0382 0.18083,-0.0639 0.0446,-0.0201 0.0899,-0.0467 0.13677,-0.0803 0.048,-0.0347 0.0863,-0.0618 0.11415,-0.0808 v 0.19948 h 0.31307 v -1.27038 c 0,-0.12071 -0.0186,-0.22188 -0.0553,-0.30346 -0.0369,-0.0816 -0.0902,-0.14809 -0.1605,-0.19949 -0.0714,-0.0525 -0.15668,-0.0896 -0.25486,-0.11077 -0.0971,-0.0223 -0.21138,-0.0334 -0.34302,-0.0334 z m -12.22184,0.0452 v 0.27634 h 0.54874 v 1.5959 h 0.71486 c 0.13166,0 0.23902,-0.0116 0.3227,-0.035 0.0837,-0.0235 0.16258,-0.0633 0.23622,-0.11924 0.0624,-0.0458 0.11123,-0.10542 0.14692,-0.17915 0.0368,-0.0738 0.0554,-0.15586 0.0554,-0.24638 0,-0.0916 -0.0163,-0.17491 -0.0486,-0.24978 -0.0324,-0.0749 -0.0805,-0.13618 -0.14524,-0.18424 -0.077,-0.057 -0.15474,-0.0928 -0.23283,-0.10739 -0.077,-0.0145 -0.18606,-0.0221 -0.32663,-0.0221 h -0.40802 v -0.729 z m 2.32943,0 v 0.27126 h 0.0887 c 0.0937,0 0.16103,0.0185 0.20231,0.0553 0.0412,0.0369 0.0772,0.1028 0.10739,0.1978 0.0346,0.10837 0.0723,0.18936 0.11359,0.243 0.0424,0.0537 0.0911,0.0952 0.14581,0.12433 l -0.72109,0.98047 h 0.3628 l 0.62616,-0.85502 h 0.13562 v 0.85502 h 0.31137 v -0.85502 h 0.15202 l 0.59904,0.85502 h 0.37975 l -0.71939,-0.99064 c 0.0502,-0.028 0.0967,-0.069 0.13902,-0.12377 0.0435,-0.0559 0.0806,-0.13391 0.1119,-0.23339 0.0279,-0.0905 0.0627,-0.15528 0.10399,-0.1944 0.0424,-0.0391 0.11088,-0.0588 0.20572,-0.0588 h 0.0887 V 201.923 h -0.11529 c -0.13946,0 -0.25085,0.0283 -0.33342,0.0853 -0.0826,0.057 -0.14813,0.15413 -0.19722,0.2916 -0.009,0.0279 -0.0211,0.0603 -0.0367,0.0972 -0.0145,0.0368 -0.0279,0.0692 -0.0401,0.0972 -0.0369,0.0838 -0.085,0.14393 -0.1441,0.1797 -0.0581,0.0358 -0.12244,0.056 -0.19385,0.0605 v -0.8115 h -0.31137 v 0.81152 c -0.0714,-0.004 -0.13638,-0.0242 -0.19441,-0.0587 -0.0569,-0.0358 -0.10388,-0.0965 -0.14072,-0.1814 -0.0111,-0.0257 -0.0245,-0.057 -0.0401,-0.0938 -0.0144,-0.0379 -0.0267,-0.0715 -0.0367,-0.10061 -0.0502,-0.13971 -0.11693,-0.23742 -0.20062,-0.29329 -0.0837,-0.0559 -0.19506,-0.0837 -0.33341,-0.0837 z m 3.11436,0 c -0.003,0.114 -0.007,0.23425 -0.0113,0.36055 -0.003,0.12518 -0.008,0.23329 -0.0119,0.32494 -0.0111,0.25148 -0.0338,0.44399 -0.0683,0.57698 -0.0346,0.13301 -0.0804,0.22725 -0.13733,0.28314 -0.0201,0.0212 -0.0451,0.0357 -0.074,0.0435 -0.0279,0.008 -0.0551,0.0119 -0.0819,0.0119 -0.0112,0 -0.025,-5.8e-4 -0.0419,-0.002 -0.0167,-0.001 -0.0295,-0.002 -0.0384,-0.002 h -0.0164 v 0.27464 c 0.0112,0 0.0343,5.9e-4 0.0701,0.002 0.0369,10e-4 0.0646,0.002 0.0837,0.002 0.0547,0 0.10509,-0.008 0.15088,-0.0248 0.0469,-0.0167 0.0892,-0.0422 0.12715,-0.0757 0.038,-0.0347 0.0727,-0.0728 0.10509,-0.11527 0.0335,-0.0436 0.0636,-0.10028 0.0904,-0.16955 0.029,-0.0737 0.0523,-0.1657 0.0701,-0.27634 0.0178,-0.11176 0.0312,-0.26149 0.039,-0.44814 0.003,-0.0693 0.007,-0.14677 0.01,-0.23282 0.003,-0.0861 0.007,-0.17567 0.01,-0.26844 h 0.69792 v 1.60776 h 0.31478 v -1.87224 z m 1.90671,0 v 1.87224 h 0.28426 l 0.97878,-1.40658 v 1.40658 h 0.31139 v -1.87224 h -0.29443 l -0.96917,1.38624 v -1.38624 z m 2.1938,0 v 1.87224 h 0.77308 c 0.13724,0 0.24805,-0.0116 0.33173,-0.035 0.0848,-0.0235 0.16255,-0.0617 0.23396,-0.11416 0.0636,-0.0469 0.11349,-0.10531 0.14919,-0.17574 0.0369,-0.0704 0.0548,-0.15078 0.0548,-0.24131 0,-0.12518 -0.036,-0.22577 -0.10848,-0.30177 -0.0714,-0.0771 -0.1625,-0.12915 -0.27295,-0.15599 v -0.0169 c 0.0826,-0.038 0.15043,-0.0912 0.20288,-0.15935 0.0525,-0.0682 0.0785,-0.14854 0.0785,-0.24131 0,-0.0805 -0.0168,-0.15042 -0.0503,-0.20966 -0.0324,-0.0593 -0.0834,-0.10728 -0.15372,-0.14411 -0.0624,-0.0324 -0.12977,-0.0533 -0.20117,-0.0621 -0.0703,-0.01 -0.17532,-0.0148 -0.31478,-0.0148 z m 0.31138,0.25148 h 0.32776 c 0.086,0 0.15787,0.002 0.21588,0.005 0.0592,0.002 0.1125,0.015 0.15936,0.0384 0.0358,0.0178 0.0618,0.0428 0.0785,0.0751 0.0178,0.0324 0.0266,0.0688 0.0266,0.10903 0,0.0537 -0.008,0.0987 -0.0248,0.13563 -0.0156,0.0358 -0.0446,0.0676 -0.0871,0.0944 -0.0401,0.0246 -0.0803,0.0402 -0.12038,0.0469 -0.039,0.005 -0.0999,0.008 -0.18253,0.008 h -0.39332 z m 2.86685,0.63859 v 0.5216 c -0.0781,0.0604 -0.16282,0.11183 -0.25431,0.15541 -0.0915,0.0424 -0.19244,0.0639 -0.30291,0.0639 -0.13276,0 -0.23197,-0.0266 -0.29667,-0.0803 -0.0647,-0.0548 -0.0967,-0.13571 -0.0967,-0.243 0,-0.095 0.0279,-0.16958 0.0837,-0.22323 0.0558,-0.0548 0.1289,-0.0946 0.21926,-0.12036 0.0759,-0.0212 0.17857,-0.0379 0.308,-0.0492 0.13054,-0.0112 0.24369,-0.0192 0.33964,-0.0248 z m -11.85902,0.0938 h 0.29443 c 0.11157,0 0.19686,0.003 0.25599,0.009 0.0602,0.005 0.1142,0.0223 0.16107,0.0503 0.0446,0.0268 0.076,0.0621 0.0949,0.10564 0.0201,0.0424 0.0305,0.0922 0.0305,0.14919 0,0.0615 -0.011,0.11235 -0.0323,0.15258 -0.0201,0.0392 -0.0526,0.0733 -0.0983,0.10225 -0.0446,0.0268 -0.098,0.0453 -0.15936,0.0553 -0.0614,0.009 -0.14783,0.013 -0.25939,0.013 h -0.28764 z m 8.99217,0.0255 h 0.40349 c 0.0871,0 0.15492,0.002 0.20401,0.007 0.0491,0.003 0.0949,0.0155 0.13733,0.0357 0.068,0.0324 0.11214,0.0682 0.13223,0.10739 0.0201,0.038 0.03,0.0877 0.03,0.14919 0,0.0559 -0.0121,0.10389 -0.0368,0.1441 -0.0234,0.0402 -0.0599,0.0744 -0.10903,0.10225 -0.0491,0.028 -0.10771,0.0465 -0.17574,0.0555 -0.0669,0.008 -0.16268,0.0113 -0.28766,0.0113 h -0.29781 z m -7.45901,3.23022 c -0.26442,0 -0.47503,0.089 -0.63124,0.26674 -0.15508,0.17659 -0.23282,0.41767 -0.23282,0.72279 0,0.30512 0.0778,0.54563 0.23282,0.72222 0.15621,0.17659 0.36682,0.26503 0.63124,0.26503 0.2622,0 0.47108,-0.0885 0.62729,-0.26503 0.15619,-0.17659 0.23452,-0.4171 0.23452,-0.72222 0,-0.30512 -0.0783,-0.5462 -0.23452,-0.72279 -0.15621,-0.1777 -0.36509,-0.26674 -0.62729,-0.26674 z m 8.57851,0 c -0.27224,0 -0.49214,0.0902 -0.65949,0.27012 -0.16625,0.17995 -0.24923,0.42277 -0.24923,0.72901 0,0.30959 0.0871,0.54894 0.26109,0.7177 0.17406,0.16766 0.41601,0.25148 0.72618,0.25148 0.12161,0 0.23765,-0.015 0.34812,-0.0452 0.11045,-0.0302 0.21894,-0.0678 0.32494,-0.11246 v -0.3436 h -0.017 c -0.0547,0.0492 -0.14635,0.0995 -0.27578,0.15089 -0.12831,0.0503 -0.25652,0.0751 -0.38371,0.0751 -0.0959,0 -0.18415,-0.0133 -0.26448,-0.0401 -0.0792,-0.0268 -0.14768,-0.0667 -0.20569,-0.12036 -0.0603,-0.0548 -0.10783,-0.12472 -0.14242,-0.20967 -0.0345,-0.0861 -0.0514,-0.18664 -0.0514,-0.30177 h 1.3772 v -0.17122 c 0,-0.2716 -0.0685,-0.48089 -0.20572,-0.62842 -0.13611,-0.14753 -0.33048,-0.22153 -0.58263,-0.22153 z m 2.19605,0 c -0.11827,0 -0.23024,0.0243 -0.33512,0.0723 -0.10378,0.0469 -0.19717,0.10531 -0.28086,0.17575 v -0.19608 h -0.31478 v 2.56337 h 0.31478 v -0.78439 c 0.0815,0.0447 0.16095,0.0776 0.23904,0.0988 0.0792,0.0212 0.16741,0.0316 0.26449,0.0316 0.11157,0 0.21715,-0.0225 0.31645,-0.0673 0.10039,-0.0458 0.18746,-0.10999 0.2611,-0.19269 0.0792,-0.0872 0.14071,-0.19299 0.18422,-0.31817 0.0435,-0.1263 0.065,-0.26562 0.065,-0.41762 0,-0.30289 -0.0632,-0.53934 -0.18932,-0.70923 -0.12496,-0.171 -0.29962,-0.25656 -0.52499,-0.25656 z m 1.98131,0 c -0.27224,0 -0.49214,0.0902 -0.6595,0.27012 -0.16624,0.17995 -0.24921,0.42277 -0.24921,0.72901 0,0.30959 0.087,0.54894 0.26108,0.7177 0.17405,0.16766 0.41601,0.25148 0.72619,0.25148 0.1216,0 0.23765,-0.015 0.3481,-0.0452 0.11045,-0.0302 0.21896,-0.0678 0.32495,-0.11246 v -0.3436 h -0.017 c -0.0547,0.0492 -0.14693,0.0995 -0.27635,0.15089 -0.12831,0.0503 -0.25596,0.0751 -0.38316,0.0751 -0.0959,0 -0.18414,-0.0133 -0.26446,-0.0401 -0.0792,-0.0268 -0.1477,-0.0667 -0.20572,-0.12036 -0.0602,-0.0548 -0.10782,-0.12472 -0.1424,-0.20967 -0.0346,-0.0861 -0.0521,-0.18664 -0.0521,-0.30177 h 1.37777 v -0.17122 c 0,-0.2716 -0.069,-0.48089 -0.20627,-0.62842 -0.13612,-0.14753 -0.32992,-0.22153 -0.58206,-0.22153 z m 4.18075,0 c -0.26442,0 -0.47505,0.089 -0.63124,0.26674 -0.15509,0.17659 -0.23227,0.41767 -0.23227,0.72279 0,0.30512 0.0772,0.54563 0.23227,0.72222 0.15619,0.17659 0.36682,0.26503 0.63124,0.26503 0.26218,0 0.47108,-0.0885 0.62727,-0.26503 0.15621,-0.17659 0.23453,-0.4171 0.23453,-0.72222 0,-0.30512 -0.0783,-0.5462 -0.23453,-0.72279 -0.15619,-0.1777 -0.36509,-0.26674 -0.62727,-0.26674 z m -19.08745,0.007 c -0.11269,0 -0.22699,0.0109 -0.34303,0.0305 -0.11604,0.0201 -0.20481,0.0381 -0.26618,0.0548 v 0.32043 h 0.017 c 0.10827,-0.0413 0.21324,-0.0726 0.31478,-0.0938 0.10148,-0.0223 0.1932,-0.0333 0.27577,-0.0333 0.068,0 0.1336,0.004 0.19609,0.013 0.0624,0.009 0.11587,0.0262 0.16051,0.0519 0.0468,0.0268 0.0822,0.0639 0.10684,0.11077 0.0257,0.0469 0.039,0.10652 0.039,0.17801 v 0.0486 c -0.18298,0.009 -0.35471,0.0222 -0.51427,0.0401 -0.15955,0.0179 -0.29591,0.052 -0.4097,0.10225 -0.11269,0.0503 -0.19972,0.11967 -0.26109,0.20797 -0.0603,0.0872 -0.0904,0.20165 -0.0904,0.34359 0,0.17324 0.0586,0.31546 0.17575,0.42723 0.11715,0.11176 0.2599,0.16783 0.42836,0.16783 0.0915,0 0.17156,-0.009 0.23961,-0.0271 0.068,-0.0167 0.12783,-0.0376 0.18028,-0.0633 0.0446,-0.0201 0.0904,-0.0472 0.13732,-0.0808 0.048,-0.0347 0.0863,-0.0612 0.11416,-0.0803 v 0.19949 h 0.31249 v -1.27096 c 0,-0.1207 -0.0179,-0.22187 -0.0548,-0.30347 -0.0369,-0.0816 -0.0908,-0.14807 -0.16106,-0.19947 -0.0714,-0.0525 -0.15612,-0.0896 -0.2543,-0.11077 -0.0971,-0.0223 -0.21138,-0.0334 -0.34302,-0.0334 z m -1.67672,0.002 c -0.28673,0 -0.51302,0.0896 -0.67813,0.26844 -0.16513,0.1777 -0.24752,0.41533 -0.24752,0.71374 0,0.1643 0.0221,0.30823 0.0667,0.43118 0.0457,0.12294 0.10957,0.2247 0.19102,0.30517 0.0815,0.0805 0.17893,0.1406 0.29273,0.18084 0.1138,0.0392 0.23912,0.0587 0.37523,0.0587 0.0915,0 0.1826,-0.0116 0.2741,-0.035 0.0926,-0.0223 0.20341,-0.064 0.33171,-0.12432 v -0.34699 h -0.0187 c -0.0178,0.0145 -0.0498,0.0371 -0.0955,0.0673 -0.0446,0.0291 -0.0881,0.0539 -0.13054,0.0751 -0.0536,0.0268 -0.11275,0.0488 -0.17858,0.0656 -0.0647,0.0167 -0.13028,0.0248 -0.19609,0.0248 -0.18745,0 -0.33192,-0.0612 -0.43345,-0.18423 -0.10148,-0.12294 -0.15201,-0.29579 -0.15201,-0.51821 0,-0.22242 0.0505,-0.39586 0.15201,-0.52104 0.10269,-0.12517 0.24712,-0.18762 0.43345,-0.18762 0.0948,0 0.19231,0.0185 0.29272,0.0565 0.10148,0.0381 0.20423,0.097 0.30799,0.17632 h 0.0187 v -0.35037 c -0.087,-0.0436 -0.18332,-0.0806 -0.28821,-0.11077 -0.10378,-0.0302 -0.20936,-0.0452 -0.31759,-0.0452 z m 22.90596,0 c -0.28673,0 -0.51244,0.0896 -0.67757,0.26844 -0.16513,0.1777 -0.24752,0.41533 -0.24752,0.71374 0,0.1643 0.0221,0.30823 0.0667,0.43118 0.0457,0.12294 0.10957,0.2247 0.19101,0.30517 0.0815,0.0805 0.17893,0.1406 0.29274,0.18084 0.1138,0.0392 0.23855,0.0587 0.37467,0.0587 0.0915,0 0.18316,-0.0116 0.27465,-0.035 0.0926,-0.0223 0.20285,-0.064 0.33115,-0.12432 v -0.34699 h -0.018 c -0.0178,0.0145 -0.0498,0.0371 -0.0955,0.0673 -0.0446,0.0291 -0.0881,0.0539 -0.13054,0.0751 -0.0536,0.0268 -0.1133,0.0488 -0.17914,0.0656 -0.0647,0.0167 -0.12971,0.0248 -0.19554,0.0248 -0.18744,0 -0.3319,-0.0612 -0.43344,-0.18423 -0.10148,-0.12294 -0.15258,-0.29579 -0.15258,-0.51821 0,-0.22242 0.0511,-0.39586 0.15258,-0.52104 0.10269,-0.12517 0.24712,-0.18762 0.43344,-0.18762 0.0948,0 0.19233,0.0185 0.29274,0.0565 0.10148,0.0381 0.20422,0.097 0.30799,0.17632 h 0.018 v -0.35037 c -0.087,-0.0436 -0.18276,-0.0806 -0.28765,-0.11077 -0.10378,-0.0302 -0.20993,-0.0452 -0.31816,-0.0452 z m -17.72946,0.0435 v 1.8728 h 0.29442 v -1.47891 l 0.46171,0.96239 h 0.23451 l 0.4651,-0.96239 v 1.47891 h 0.31138 v -1.8728 h -0.38654 l -0.49222,1.04773 -0.50861,-1.04773 z m 2.17852,0 0.74483,1.78238 -0.34811,0.781 h 0.33624 l 1.09125,-2.56338 h -0.32947 l -0.57924,1.3885 -0.5736,-1.3885 z m 2.23618,0 v 1.8728 h 0.77308 c 0.13723,0 0.24748,-0.0116 0.33117,-0.035 0.0847,-0.0235 0.16312,-0.0616 0.23452,-0.11416 0.0635,-0.0469 0.11349,-0.10586 0.14918,-0.17632 0.0368,-0.0704 0.0548,-0.15077 0.0548,-0.2413 0,-0.12518 -0.036,-0.22577 -0.10848,-0.30178 -0.0714,-0.0771 -0.1625,-0.12914 -0.27296,-0.15596 v -0.0164 c 0.0826,-0.038 0.14986,-0.0912 0.20231,-0.15937 0.0524,-0.0681 0.0792,-0.14854 0.0792,-0.2413 0,-0.0805 -0.0169,-0.15043 -0.0503,-0.20967 -0.0324,-0.0593 -0.084,-0.10717 -0.15428,-0.1441 -0.0624,-0.0324 -0.12922,-0.0533 -0.20062,-0.0621 -0.0703,-0.01 -0.17531,-0.0153 -0.31477,-0.0153 z m 8.25752,0 v 1.8728 h 0.31477 v -0.84315 h 0.93527 v 0.84315 h 0.31477 v -1.8728 h -0.31477 v 0.75783 h -0.93527 v -0.75783 z m 5.80206,0 v 0.27691 h 0.67647 v 1.59589 h 0.3142 v -1.59589 h 0.67644 v -0.27691 z m -11.26167,0.20796 c 0.16736,0 0.29209,0.0451 0.37354,0.13563 0.0826,0.0906 0.12434,0.21886 0.12545,0.38427 h -1.0709 c 0.0133,-0.14752 0.0697,-0.27124 0.16898,-0.37071 0.10039,-0.0995 0.23445,-0.14919 0.40293,-0.14919 z m 4.17735,0 c 0.16736,0 0.2921,0.0451 0.37356,0.13563 0.0826,0.0906 0.12434,0.21886 0.12545,0.38427 h -1.07148 c 0.0133,-0.14752 0.0702,-0.27124 0.16955,-0.37071 0.10039,-0.0995 0.23445,-0.14919 0.40292,-0.14919 z m -12.73891,0.0119 c 0.16848,0 0.30019,0.0589 0.39503,0.17745 0.0948,0.11736 0.14184,0.29773 0.14184,0.54026 0,0.23694 -0.0476,0.41559 -0.14355,0.53629 -0.0948,0.11959 -0.22596,0.17914 -0.39332,0.17914 -0.16959,0 -0.30187,-0.0601 -0.39671,-0.18084 -0.0948,-0.12181 -0.14241,-0.29988 -0.14241,-0.53459 0,-0.24253 0.047,-0.4229 0.14072,-0.54026 0.0948,-0.11847 0.2277,-0.17745 0.3984,-0.17745 z m 16.93662,0 c 0.16848,0 0.30018,0.0589 0.39502,0.17745 0.0948,0.11736 0.14184,0.29773 0.14184,0.54026 0,0.23694 -0.0476,0.41559 -0.14353,0.53629 -0.0948,0.11959 -0.22597,0.17914 -0.39333,0.17914 -0.1696,0 -0.30188,-0.0601 -0.39673,-0.18084 -0.0948,-0.12181 -0.14239,-0.29988 -0.14239,-0.53459 0,-0.24253 0.047,-0.4229 0.1407,-0.54026 0.0948,-0.11847 0.2277,-0.17745 0.39842,-0.17745 z m -6.24287,0.0282 c 0.15954,0 0.27791,0.0561 0.3549,0.16785 0.077,0.11177 0.11585,0.28058 0.11585,0.50635 0,0.23246 -0.0493,0.40765 -0.1475,0.52612 -0.0982,0.11847 -0.23511,0.17801 -0.41028,0.17801 -0.0815,0 -0.15455,-0.008 -0.21927,-0.0221 -0.0635,-0.0145 -0.13962,-0.0417 -0.22887,-0.0819 v -1.0613 c 0.0836,-0.0636 0.17129,-0.11515 0.26278,-0.15427 0.0915,-0.0391 0.18202,-0.0588 0.27239,-0.0588 z m -4.61871,0.003 h 0.32776 c 0.086,0 0.15786,0.002 0.21588,0.005 0.0592,0.002 0.1125,0.015 0.15936,0.0384 0.0358,0.0179 0.0618,0.0433 0.0785,0.0758 0.0178,0.0324 0.0266,0.0689 0.0266,0.10903 0,0.0536 -0.008,0.0987 -0.0248,0.13562 -0.0156,0.0358 -0.0446,0.067 -0.0871,0.0938 -0.0401,0.0246 -0.0808,0.0402 -0.12093,0.0469 -0.039,0.005 -0.0994,0.009 -0.18197,0.009 h -0.39331 z m -7.72518,0.63858 v 0.5216 c -0.0781,0.0604 -0.16338,0.11239 -0.25488,0.15598 -0.0915,0.0424 -0.19244,0.0639 -0.3029,0.0639 -0.13277,0 -0.2314,-0.0271 -0.29611,-0.0808 -0.0647,-0.0548 -0.0972,-0.1357 -0.0972,-0.243 0,-0.095 0.0284,-0.169 0.0842,-0.22264 0.0558,-0.0548 0.12889,-0.0953 0.21927,-0.12095 0.0759,-0.0212 0.17802,-0.0374 0.30742,-0.0486 0.13054,-0.0112 0.24426,-0.0198 0.34021,-0.0254 z m 7.72518,0.11925 h 0.40292 c 0.0871,0 0.15548,0.002 0.20458,0.007 0.0491,0.003 0.0949,0.0149 0.13732,0.035 0.068,0.0324 0.11215,0.0682 0.13223,0.10739 0.0201,0.0381 0.03,0.0877 0.03,0.14918 0,0.0559 -0.0121,0.10389 -0.0368,0.14413 -0.0234,0.0402 -0.06,0.0744 -0.10914,0.10225 -0.0491,0.0279 -0.10771,0.0465 -0.17574,0.0553 -0.0669,0.008 -0.16268,0.0119 -0.28765,0.0119 h -0.29781 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#140000;stroke:#000000;stroke-width:0.689999"
+       x="233.96141"
+       y="202.98114"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.69"
+         x="233.96141"
+         y="202.98114" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#140000;stroke:#000000;stroke-width:0.689999"
+       x="256.89487"
+       y="216.25841"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:0.69"
+         x="256.89487"
+         y="216.25841" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43384px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.269321;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="267.24747"
+       y="221.54141"
+       id="text17-400-9"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43384px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.269321;stroke-dasharray:none;stroke-opacity:1"
+         x="267.24747"
+         y="221.54141"
+         id="tspan28-8">Ленност и небрежност</tspan><tspan
+         sodipodi:role="line"
+         x="267.24747"
+         y="227.08371"
+         id="tspan26-3"
+         style="stroke-width:0.269321" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46868px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.271437;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="273.64178"
+       y="236.09068"
+       id="text17-400-75"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46868px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.271437;stroke-dasharray:none;stroke-opacity:1"
+         x="273.64178"
+         y="236.09068"
+         id="tspan28-4">Слаба грижа за здравето</tspan><tspan
+         sodipodi:role="line"
+         x="273.64178"
+         y="241.67653"
+         id="tspan26-8"
+         style="stroke-width:0.271437" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7596px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.289108;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="214.85297"
+       y="250.7121"
+       id="text17-400-5"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         x="214.85297"
+         y="250.7121"
+         id="tspan26-1"
+         style="stroke-width:0.289108">Небрежност и несериозност</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46868px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.271437;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="323.97989"
+       y="265.26135"
+       id="text17-400-75-6"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46868px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.271437;stroke-dasharray:none;stroke-opacity:1"
+         x="323.97989"
+         y="265.26135"
+         id="tspan28-4-9">Ниски морално-политически и бойни качества</tspan><tspan
+         sodipodi:role="line"
+         x="323.97989"
+         y="270.8472"
+         id="tspan26-8-9"
+         style="stroke-width:0.271437" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.35156px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.264323;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="347.52432"
+       y="279.50217"
+       id="text17-400-75-1"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.35156px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.264323;stroke-dasharray:none;stroke-opacity:1"
+         x="347.52432"
+         y="279.50217"
+         id="tspan28-4-3">Отсъствие на качества, необходими на летателния състав</tspan><tspan
+         sodipodi:role="line"
+         x="347.52432"
+         y="284.94162"
+         id="tspan26-8-2"
+         style="stroke-width:0.264323" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43384px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.269321;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="408.77704"
+       y="190.15701"
+       id="text17-400-9-1"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43384px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.269321;stroke-dasharray:none;stroke-opacity:1"
+         x="408.77704"
+         y="190.15701"
+         id="tspan28-8-6">Слаба психическа подготовка и натеренираност</tspan><tspan
+         sodipodi:role="line"
+         x="408.77704"
+         y="195.69931"
+         id="tspan26-3-2"
+         style="stroke-width:0.269321" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66813px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.283552;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="409.31058"
+       y="202.90765"
+       id="text17-400-9-4"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66813px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.283552;stroke-dasharray:none;stroke-opacity:1"
+         x="409.31058"
+         y="202.90765"
+         id="tspan28-8-1">Ниско ниво на цялостно развитие</tspan><tspan
+         sodipodi:role="line"
+         x="409.31058"
+         y="208.74281"
+         id="tspan26-3-4"
+         style="stroke-width:0.283552" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49368px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.212214;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="409.25385"
+       y="213.49626"
+       id="text17-400-9-9"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49368px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.212214;stroke-dasharray:none;stroke-opacity:1"
+         x="409.25385"
+         y="213.49626"
+         id="tspan28-8-5">Арогантност и надценяване на</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49368px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.212214;stroke-dasharray:none;stroke-opacity:1"
+         x="409.25385"
+         y="217.86336"
+         id="tspan27">своите умения</tspan><tspan
+         sodipodi:role="line"
+         x="409.25385"
+         y="222.23047"
+         id="tspan26-3-9"
+         style="stroke-width:0.212214" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0859px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.187444;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="410.29007"
+       y="228.87965"
+       id="text17-400-9-43"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0859px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.187444;stroke-dasharray:none;stroke-opacity:1"
+         x="410.29007"
+         y="228.87965"
+         id="tspan28-8-19">Липса на възпитание и лична дисциплина</tspan><tspan
+         sodipodi:role="line"
+         x="410.29007"
+         y="232.73703"
+         id="tspan26-3-6"
+         style="stroke-width:0.187444" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.645px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.221405;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="410.34866"
+       y="239.80354"
+       id="text17-400-9-99"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.645px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.221405;stroke-dasharray:none;stroke-opacity:1"
+         x="410.34866"
+         y="239.80354"
+         id="tspan28-8-2">Излично недовение към</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.645px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.221405;stroke-dasharray:none;stroke-opacity:1"
+         x="410.34866"
+         y="244.35979"
+         id="tspan33">всеки и всичко</tspan><tspan
+         sodipodi:role="line"
+         x="410.34866"
+         y="248.91605"
+         id="tspan26-3-98"
+         style="stroke-width:0.221405" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94471px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.178868;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="203.5392"
+       y="204.30408"
+       id="text17-400-9-6"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94471px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.178868;stroke-dasharray:none;stroke-opacity:1"
+         x="203.5392"
+         y="204.30408"
+         id="tspan28-8-10">Умора на ръководството</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94471px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.178868;stroke-dasharray:none;stroke-opacity:1"
+         x="203.5392"
+         y="207.98497"
+         id="tspan34">и летателния състав</tspan><tspan
+         sodipodi:role="line"
+         x="203.5392"
+         y="211.66585"
+         id="tspan26-3-28"
+         style="stroke-width:0.178868" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49002px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.211991;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="203.71046"
+       y="219.31335"
+       id="text17-400-9-7"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         x="203.71046"
+         y="219.31335"
+         id="tspan26-3-61"
+         style="text-align:end;text-anchor:end;stroke-width:0.211991">Влошаване на здравето</tspan><tspan
+         sodipodi:role="line"
+         x="203.71046"
+         y="223.67587"
+         style="text-align:end;text-anchor:end;stroke-width:0.211991"
+         id="tspan35">поради неправилна експлоатация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23191px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.257056;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="203.07091"
+       y="236.23137"
+       id="text17-400-9-67"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23191px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.257056;stroke-dasharray:none;stroke-opacity:1"
+         x="203.07091"
+         y="236.23137"
+         id="tspan28-8-56">Пиянство и системна липса на сън</tspan><tspan
+         sodipodi:role="line"
+         x="203.07091"
+         y="241.52126"
+         id="tspan26-3-7"
+         style="stroke-width:0.257056" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10408px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.249291;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="202.3976"
+       y="250.86571"
+       id="text17-400-9-8"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10408px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.249291;stroke-dasharray:none;stroke-opacity:1"
+         x="202.3976"
+         y="250.86571"
+         id="tspan28-8-4">Липса на необходимите условия за живот</tspan><tspan
+         sodipodi:role="line"
+         x="202.3976"
+         y="255.9958"
+         id="tspan26-3-8"
+         style="stroke-width:0.249291" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74551px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.22751;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="203.29924"
+       y="262.29761"
+       id="text17-400-9-68"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74551px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.22751;stroke-dasharray:none;stroke-opacity:1"
+         x="203.29924"
+         y="262.29761"
+         id="tspan28-8-3">Слабо медицинско наблюдение и профилактика;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74551px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.22751;stroke-dasharray:none;stroke-opacity:1"
+         x="203.29924"
+         y="266.97949"
+         id="tspan39">липса на здравеопазваща дейност</tspan><tspan
+         sodipodi:role="line"
+         x="203.29924"
+         y="271.66138"
+         id="tspan26-3-92"
+         style="stroke-width:0.22751" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.22252px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.195742;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="9.9328604"
+       y="239.42697"
+       id="text17-400-9-3"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.22252px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.195742;stroke-dasharray:none;stroke-opacity:1"
+         x="9.9328604"
+         y="239.42697"
+         id="tspan28-8-32">Прикриване на болестно</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.22252px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.195742;stroke-dasharray:none;stroke-opacity:1"
+         x="9.9328604"
+         y="243.45512"
+         id="tspan40">състояние преди полет</tspan><tspan
+         sodipodi:role="line"
+         x="9.9328604"
+         y="247.48328"
+         id="tspan26-3-78"
+         style="stroke-width:0.195742" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.60263px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.218832;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="9.7542038"
+       y="226.39479"
+       id="text17-400-9-84"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.60263px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.218832;stroke-dasharray:none;stroke-opacity:1"
+         x="9.7542038"
+         y="226.39479"
+         id="tspan28-8-67">Намалена работоспособност</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.60263px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.218832;stroke-dasharray:none;stroke-opacity:1"
+         x="9.7542038"
+         y="230.89807"
+         id="tspan41">поради заболяване</tspan><tspan
+         sodipodi:role="line"
+         x="9.7542038"
+         y="235.40137"
+         id="tspan26-3-26"
+         style="stroke-width:0.218832" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.07713px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.247653;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="94.418442"
+       y="215.70554"
+       id="text17-400-9-996"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.07713px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.247653;stroke-dasharray:none;stroke-opacity:1"
+         x="94.418442"
+         y="215.70554"
+         id="tspan28-8-40">Липса на условия за отдих преди полет</tspan><tspan
+         sodipodi:role="line"
+         x="94.418442"
+         y="220.80194"
+         id="tspan26-3-5"
+         style="stroke-width:0.247653" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99043px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.242388;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="10.245292"
+       y="200.36302"
+       id="text17-400-9-0"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99043px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.242388;stroke-dasharray:none;stroke-opacity:1"
+         x="10.245292"
+         y="200.36302"
+         id="tspan28-8-8">Неправилно разпределение на времето</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99043px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.242388;stroke-dasharray:none;stroke-opacity:1"
+         x="10.245292"
+         y="205.35106"
+         id="tspan42">или лошо разпределение на същото в полет</tspan><tspan
+         sodipodi:role="line"
+         x="10.245292"
+         y="210.3391"
+         id="tspan26-3-1"
+         style="stroke-width:0.242388" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62106px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.219951;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="10.206087"
+       y="188.05699"
+       id="text17-400-9-79"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62106px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.219951;stroke-dasharray:none;stroke-opacity:1"
+         x="10.206087"
+         y="188.05699"
+         id="tspan28-8-82">Нарушение на режима на работа, почивка</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62106px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.219951;stroke-dasharray:none;stroke-opacity:1"
+         x="10.206087"
+         y="192.58331"
+         id="tspan43">и предполетно хранене</tspan><tspan
+         sodipodi:role="line"
+         x="10.206087"
+         y="197.10963"
+         id="tspan26-3-20"
+         style="stroke-width:0.219951" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09886px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.248974;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="187.37714"
+       y="149.52538"
+       id="text17-400-9-97"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09886px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.248974;stroke-dasharray:none;stroke-opacity:1"
+         x="187.37714"
+         y="149.52538"
+         id="tspan28-8-565">Липса на дисциплина и небрежност на летателния съсгтав и помощния персонал</tspan><tspan
+         sodipodi:role="line"
+         x="187.37714"
+         y="154.64896"
+         id="tspan26-3-71"
+         style="stroke-width:0.248974" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21055px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.134273;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="18.858772"
+       y="168.84335"
+       id="text17-400-9-3-8"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         x="18.858772"
+         y="168.84335"
+         id="tspan26-3-78-2"
+         style="stroke-width:0.134273">Нарушение на</tspan><tspan
+         sodipodi:role="line"
+         x="18.858772"
+         y="171.60654"
+         style="stroke-width:0.134273"
+         id="tspan92">кадровия състав</tspan><tspan
+         sodipodi:role="line"
+         x="18.858772"
+         y="174.36974"
+         style="stroke-width:0.134273"
+         id="tspan94">и лоша работа</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.8099px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.170678;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="49.610077"
+       y="170.00795"
+       id="text17-400-9-3-4"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         x="49.610077"
+         y="170.00795"
+         id="tspan26-3-78-5"
+         style="stroke-width:0.170678">Нарушение на</tspan><tspan
+         sodipodi:role="line"
+         x="49.610077"
+         y="173.52032"
+         style="stroke-width:0.170678"
+         id="tspan97">правилата</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6416px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.160456;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="79.674507"
+       y="168.73192"
+       id="text17-400-9-3-46"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         x="79.674507"
+         y="168.73192"
+         id="tspan26-3-78-1"
+         style="stroke-width:0.160456">Невнимание и</tspan><tspan
+         sodipodi:role="line"
+         x="79.674507"
+         y="172.03392"
+         style="stroke-width:0.160456"
+         id="tspan99">нарушаване на</tspan><tspan
+         sodipodi:role="line"
+         x="79.674507"
+         y="175.33592"
+         style="stroke-width:0.160456"
+         id="tspan100">режима полета</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30295px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.200627;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
+       x="110.09299"
+       y="169.78322"
+       id="text17-400-9-3-5"
+       transform="scale(0.99913515,1.0008656)"><tspan
+         sodipodi:role="line"
+         x="110.09299"
+         y="169.78322"
+         id="tspan26-3-78-9"
+         style="stroke-width:0.200627">Нарушаване на правилата</tspan><tspan
+         sodipodi:role="line"
+         x="110.09299"
+         y="173.91191"
+         style="stroke-width:0.200627"
+         id="tspan103">за движение на летището</tspan></text>
+  </g>
+</svg>
