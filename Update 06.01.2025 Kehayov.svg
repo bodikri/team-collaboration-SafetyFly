@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="Update 06.01.2025 Kehayov.svg"
+   inkscape:export-filename="..\Безопасност.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,15 +40,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.3152186"
-     inkscape:cx="597.61929"
-     inkscape:cy="588.11516"
+     inkscape:zoom="1.63"
+     inkscape:cx="797.54601"
+     inkscape:cy="535.27607"
      inkscape:window-width="3840"
-     inkscape:window-height="2081"
+     inkscape:window-height="2071"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer4"
      showgrid="true"
      showguides="false">
     <inkscape:grid
@@ -411,6 +414,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="LeftDown"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1f53ff;stroke-width:0.800011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
@@ -739,6 +743,17 @@
          style="stroke-width:3.3"
          x="9.455018"
          y="255.68787">Липса на баланс</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;stroke-width:3.29999"
+       x="165.41975"
+       y="206.60362"
+       id="text122-8"><tspan
+         sodipodi:role="line"
+         id="tspan122-2"
+         style="stroke-width:3.3"
+         x="165.41975"
+         y="206.60362">Липса на хармония</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -868,7 +883,7 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,0,0.21337366)"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52916667,-0.31579301)"
        id="text61"
        style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect61);display:inline;opacity:0.99;fill:#000000"><tspan
          x="64.599609"
@@ -876,58 +891,63 @@
          id="tspan3">ниско ниво </tspan><tspan
          x="64.599609"
          y="488.88764"
-         id="tspan34">на </tspan><tspan
+         id="tspan16">на морал </tspan><tspan
          x="64.599609"
          y="507.13898"
-         id="tspan39"><tspan
+         id="tspan45"><tspan
            dx="0 8.2877398 8.5351343 7.1223774 8.5937271 8.5351372 8.4960709 8.2747192 8.5351295 8.4960785 8.0077896 4.6874847 8.5351334 4.6874924 8.0924301 8.1900787 8.3072739 8.0077896 6.9921722 8.0924225 7.9296722 8.0077972 8.4960632 8.535141 7.942688"
-           id="tspan35">дисциплина и образование
+           id="tspan44">дисциплина и образование
 </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text62"
-       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect62);display:inline;opacity:0.99;fill:#000000"
-       transform="scale(0.26458333)"><tspan
-         x="184.19727"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect62);display:inline;opacity:0.99;fill:#000000"
+       transform="scale(0.26458333)"
+       x="33.85408"
+       y="0"><tspan
+         x="191.64332"
          y="467.85578"
-         id="tspan40">нарушено </tspan><tspan
-         x="184.19727"
+         id="tspan46">нарушено </tspan><tspan
+         x="209.46879"
          y="484.52241"
-         id="tspan41">НШО </tspan><tspan
+         id="tspan47">НЩС </tspan><tspan
          x="184.19727"
          y="510.63117"
-         id="tspan43"><tspan
+         id="tspan49"><tspan
            dx="0 8.5351343 8.4960718 7.1223774 6.6145668 8.3072701 7.8906059 7.8906059 8.5937271 8.5351372 8.5351334 4.6874847 8.5351334 4.6874924 6.9921722 8.0077896 8.4960709 8.0924225 7.9296722 7.942688 8.287735 8.535141 4.6874847 8.4960785 8.007782 4.6875 9.1145477 8.4309692 10.149719"
-           id="tspan42">инструкции и заповеди на АЕЦ
+           id="tspan48">инструкции и заповеди на АЕЦ
 </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text63"
-       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect63);display:inline;opacity:0.99;fill:#000000"
-       transform="scale(0.26458333)"><tspan
-         x="295.9375"
+       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect63);display:inline;opacity:0.99;fill:#000000"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52916663,0)"
+       x="39.898987"
+       y="0"><tspan
+         x="298.64821"
          y="470.47492"
-         id="tspan54">игнориране </tspan><tspan
-         x="295.9375"
+         id="tspan50">игнориране </tspan><tspan
+         x="318.36496"
          y="487.14155"
-         id="tspan57">на </tspan><tspan
+         id="tspan54">на МБ </tspan><tspan
          x="295.9375"
          y="507.13898"
-         id="tspan74"><tspan
+         id="tspan64"><tspan
            dx="0 9.2838306 7.942688 6.6145668 7.9426899 8.0924263 8.3072701 8.0924301 8.2747192 8.0924225 6.2825394 8.5351334 8.0728989 8.4960709 8.5351334 6.614563 7.942688 4.6874847 7.8906097 7.1223755 8.2747192 8.0924377 7.929657 8.535141 7.9947662"
-           id="tspan64">метеорологичните условия
+           id="tspan57">метеорологичните условия
 </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text65"
-       style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect65);display:inline;opacity:0.99;fill:#000000"
-       transform="scale(0.26458333)"><tspan
+       style="font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect65);display:inline;opacity:0.99;fill:#000000"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52916667,0.52916667)"><tspan
          x="410.29688"
-         y="472.22101"
-         id="tspan75">ниски изисквания към управл. </tspan><tspan
+         y="469.78819"
+         id="tspan74">ниски изисквания към управл. 
+</tspan><tspan
          x="410.29688"
-         y="488.88764"
-         id="tspan76">комп. за лично обучение</tspan></text>
+         y="483.12157"
+         id="tspan75">комп. за лично обучение</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21055px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0a0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.134273;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
@@ -1051,7 +1071,7 @@
            y="0"><tspan
              x="337.80187"
              y="62.701483"
-             id="tspan77">Неподготвеност и безотговорност на ръководителя на полети
+             id="tspan76">Неподготвеност и безотговорност на ръководителя на полети
 </tspan></text>
       </g>
       <g
@@ -1071,10 +1091,10 @@
            y="0"><tspan
              x="424.42862"
              y="114.31476"
-             id="tspan78">Непознаването на метеорологичните условия или </tspan><tspan
+             id="tspan77">Непознаването на метеорологичните условия или </tspan><tspan
              x="631.6221"
              y="130.98139"
-             id="tspan79">пренебрегването им
+             id="tspan78">пренебрегването им
 </tspan></text>
       </g>
       <g
@@ -1094,10 +1114,10 @@
            transform="matrix(0.26458333,0,0,0.26458333,1.0588007,1.0583333)"><tspan
              x="415.70728"
              y="172.37922"
-             id="tspan80">Провеждане на полети когато са незадоволителни </tspan><tspan
+             id="tspan79">Провеждане на полети когато са незадоволителни </tspan><tspan
              x="475.23837"
              y="189.04584"
-             id="tspan81">пистите и/или неподготвени РСТ средства
+             id="tspan80">пистите и/или неподготвени РСТ средства
 </tspan></text>
       </g>
       <g
@@ -1117,7 +1137,7 @@
            transform="matrix(0.26458333,0,0,0.26458333,1.0588007,1.0583333)"><tspan
              x="562.38659"
              y="228.29328"
-             id="tspan82">Лошо подготвен стартов екип</tspan></text>
+             id="tspan81">Лошо подготвен стартов екип</tspan></text>
       </g>
       <g
          id="g68">
@@ -1136,10 +1156,10 @@
            y="0"><tspan
              x="558.61903"
              y="283.13117"
-             id="tspan108">Опасен подход на самолет без </tspan><tspan
+             id="tspan82">Опасен подход на самолет без </tspan><tspan
              x="730.57172"
              y="299.7978"
-             id="tspan139">мисия</tspan></text>
+             id="tspan108">мисия</tspan></text>
       </g>
       <g
          id="g69">
@@ -1158,11 +1178,11 @@
            y="0"><tspan
              x="662.73633"
              y="341.05539"
-             id="tspan144">Излитане без медицински
+             id="tspan139">Излитане без медицински
 </tspan><tspan
              x="775.28906"
              y="356.05539"
-             id="tspan147">преглед
+             id="tspan144">преглед
 </tspan></text>
       </g>
       <path
@@ -1216,11 +1236,11 @@
            transform="matrix(0.26458333,0,0,0.26458333,0.52966234,0.03724434)"><tspan
              x="30.107422"
              y="403.56281"
-             id="tspan149">Лоша подготовка на единични екипажи и самолети по време
+             id="tspan147">Лоша подготовка на единични екипажи и самолети по време
 </tspan><tspan
              x="30.107422"
              y="420.22944"
-             id="tspan155">на самостоятелни полети и полети на други летища </tspan></text>
+             id="tspan149">на самостоятелни полети и полети на други летища </tspan></text>
       </g>
       <g
          id="g5"
@@ -1238,11 +1258,11 @@
            transform="matrix(0.26458333,0,0,0.26458333,4.9569667e-4,0.03724434)"><tspan
              x="31.183594"
              y="357.32648"
-             id="tspan158">Пускане на екипажи за полет в условия, 
+             id="tspan155">Пускане на екипажи за полет в условия, 
 </tspan><tspan
              x="31.183594"
              y="373.99311"
-             id="tspan160">неотговарящи на нивото им на обучение</tspan></text>
+             id="tspan158">неотговарящи на нивото им на обучение</tspan></text>
       </g>
       <g
          id="g4"
@@ -1260,11 +1280,11 @@
            transform="matrix(0.26458333,0,0,0.26458333,-0.52867097,0.56641101)"><tspan
              x="33.333984"
              y="304.49679"
-             id="tspan162">Лоша организация на обективен контрол върху
+             id="tspan160">Лоша организация на обективен контрол върху
 </tspan><tspan
              x="33.333984"
              y="319.49679"
-             id="tspan164">качеството нa подготовката и изпълнението на полета
+             id="tspan162">качеството нa подготовката и изпълнението на полета
 </tspan></text>
       </g>
       <g
@@ -1283,11 +1303,11 @@
            transform="matrix(0.26458333,0,0,0.26458333,0.14274481,0.03724434)"><tspan
              x="31.183594"
              y="257.32648"
-             id="tspan165">Нарушаване на документите и 
+             id="tspan164">Нарушаване на документите и 
 </tspan><tspan
              x="31.183594"
              y="273.99311"
-             id="tspan166">методите за подготовка за полета</tspan></text>
+             id="tspan165">методите за подготовка за полета</tspan></text>
       </g>
       <g
          id="g2"
@@ -1306,11 +1326,11 @@
            inkscape:label="text2"><tspan
              x="32.257812"
              y="208.79757"
-             id="tspan167">Лоша организация на 
+             id="tspan166">Лоша организация на 
 </tspan><tspan
              x="32.257812"
              y="223.79757"
-             id="tspan168">предв. и предполетн подготовка</tspan></text>
+             id="tspan167">предв. и предполетн подготовка</tspan></text>
       </g>
       <g
          id="g1"
@@ -1329,11 +1349,11 @@
            inkscape:label="text1"><tspan
              x="32.257812"
              y="159.47687"
-             id="tspan169">Лошо планиране
+             id="tspan168">Лошо планиране
 </tspan><tspan
              x="32.257812"
              y="176.1435"
-             id="tspan170">на полетния ден</tspan></text>
+             id="tspan169">на полетния ден</tspan></text>
       </g>
       <path
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.706372;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1"
